@@ -1,7 +1,4 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome my blog. My name is Allan Barrantes, I'm from Costa Rica and reside in Madrid, Spain. 
+In this blog I write about different topics but mostly trying to focus on web development/tools in the JavaScript ecosystem and machine learning/AI.
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+If you want to contact me, feel free to send me an [email](mailto:allandbc1202@gmail.com)!
